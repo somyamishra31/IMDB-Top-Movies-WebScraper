@@ -35,7 +35,6 @@ Key features include:
   - `beautifulsoup4` → parse HTML / JSON  
   - `pandas` → structure and analyze data  
   - `IPython.display` → render images inside notebook
-  - *(Optional: add `lxml`, `selenium`, `matplotlib`, etc. if used)*  
 
 ---
 
